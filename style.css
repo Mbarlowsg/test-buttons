@@ -1,10 +1,13 @@
+body {
+  background-color: lightblue;
+}
 
 .flowers{
     display: grid;
     justify-content: center;
 }
 
-.flowers h1{
+.flowers h1, a{
     display: grid;
     justify-content: center;
 }
@@ -38,4 +41,10 @@
 .button-link button {
     width: 50px;
     height: 30px;
+}
+
+button {
+    width: 50px;
+    height: 30px;
+
 }
