@@ -1,7 +1,41 @@
+
 .flowers{
+    display: grid;
+    justify-content: center;
+}
+
+.flowers h1{
+    display: grid;
+    justify-content: center;
+}
+
+.flowers img{
     width: 400px;
     height: 400px;
 }
 
+.me {
+    width: 400px;
+    height: 400px;
+}
 
+.hi {
+    display: grid;
+    justify-content: center;
+}
 
+.hi h1 {
+    display: grid;
+    justify-content: center;
+}
+
+.button-link{
+    display: grid;
+    justify-content: center;
+
+}
+
+.button-link button {
+    width: 50px;
+    height: 30px;
+}
